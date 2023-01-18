@@ -1,5 +1,5 @@
 
-| <h1>Hi there! 👋 I’m (JD) @mrdreamatic</h1><p>A full-stack freelance developer with 10+ years of professional experience.<br />Experience in front and back-end development, and specialize in Angular JS, React and PHP.</p> | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
+| <h1>Hi there! 👋 I’m (JD)</h1><p>A full-stack freelance developer with 10+ years of professional experience.<br />Experience in front and back-end development, and specialize in Angular JS, React and PHP.</p> | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
 | --- | --- |
 
 
