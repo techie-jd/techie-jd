@@ -20,7 +20,7 @@
 
 
 I would love to chat with you more about your project needs and how I can be best help you.
-Feel free to drop me an email: dreamz9189@gmail.com
+
 
 
 
