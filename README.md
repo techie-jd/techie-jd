@@ -21,7 +21,7 @@
 
 I would love to chat with you more about your project needs and how I can be best help you.
 
-Connect on Instagram: https://instagram.com/m/mr.dreamatic
+Connect on Instagram: https://instagram.com/mr.dreamatic
 
 
 
