@@ -1,7 +1,5 @@
 
-| # 👋 Hey there!
-
-I'm JD, a seasoned full-stack freelance developer with over 10 years of professional experience. My journey in the tech world has been a thrilling adventure, and I'm passionate about turning ideas into powerful, scalable solutions. | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
+| <p><h1>👋 Hey there! I'm JD,</h1>A seasoned full-stack freelance developer with over 10 years of professional experience. My journey in the tech world has been a thrilling adventure, and I'm passionate about turning ideas into powerful, scalable solutions.</p> | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
 | --- | --- |
 
 
