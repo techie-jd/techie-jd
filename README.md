@@ -1,10 +1,10 @@
 
-| <h1>Hi there! 👋 I’m (JD)</h1><p>A full-stack freelance developer with 10+ years of professional experience.<br />Experience in front and back-end development, and specialize in ReactJS, React Native and PHP.</p> | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
+| # 👋 Hey there!
+
+I'm JD, a seasoned full-stack freelance developer with over 10 years of professional experience. My journey in the tech world has been a thrilling adventure, and I'm passionate about turning ideas into powerful, scalable solutions. | <p align="right"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="programmer"></p> |
 | --- | --- |
 
-# 👋 Hey there!
 
-I'm JD, a seasoned full-stack freelance developer with over 10 years of professional experience. My journey in the tech world has been a thrilling adventure, and I'm passionate about turning ideas into powerful, scalable solutions.
 
 ## 💻 Expertise
 
