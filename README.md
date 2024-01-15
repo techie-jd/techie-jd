@@ -27,9 +27,9 @@ function isMyWorld(){
 life = isMyWorld();
 console.log(life);
 ```
-[View above code on codepen](https://codepen.io/j-sai-desai/pen/VwRPQOv){:target="_blank"}
+[View above code on codepen](https://codepen.io/j-sai-desai/pen/VwRPQOv){:target="_blank" rel="noopener"}
  
- [<img src="https://dreamzdevelopers.com/wp-content/uploads/1/2024/01/Screenshot-2024-01-16-at-4.37.29 AM.png" style="width:100%;">](https://codepen.io/j-sai-desai/pen/VwRPQOv){:target="_blank"}
+ [<img src="https://dreamzdevelopers.com/wp-content/uploads/1/2024/01/Screenshot-2024-01-16-at-4.37.29 AM.png" style="width:100%;">](https://codepen.io/j-sai-desai/pen/VwRPQOv){:target="_blank" rel="noopener"}
  
 
 ## 🌐 Continuous Learning
